@@ -111,7 +111,7 @@
 
         <div>
 
-            <label for="confirmPassword">Confirm Password:</label>
+          <label for="confirmPassword">Confirm Password:</label>
 
             <input type="password" id="confirmPassword" name="confirmPassword">
 
